@@ -26,3 +26,14 @@
   background-size: cover;
   background-position: center;
 }
+
+.is-hidden {
+  display: none;
+}
+
+.cat-info {
+  display: flex;
+  width: 800px;
+  margin-top: 20px;
+  gap: 20px;
+}
